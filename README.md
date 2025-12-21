@@ -77,6 +77,17 @@ For the full text, please see the LICENSE file.
 
 *If you find this repository useful for your research, please consider starring it!*
 
+## 📜 Citation
+
+If you use this code in your research or project, please cite it as follows:
+
+```bibtex
+@software{Krishnanjan_Sil_PINN_NLSE_2025,
+  author = {[Your Last Name], [Your First Name]},
+  title = {PINN-NLSE: Physics-Informed Neural Networks for the Non-Linear Schrödinger Equation},
+  url = {[https://github.com/](https://github.com/)[Krishnanjan_Sil]/[Your-Repo-Name]},
+  version = {1.0.0},
+  year = {2025}
+}
 ```
 
-```
