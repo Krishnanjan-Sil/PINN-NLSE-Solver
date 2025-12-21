@@ -83,9 +83,9 @@ If you use this code in your research or project, please cite it as follows:
 
 ```bibtex
 @software{Krishnanjan_Sil_PINN_NLSE_2025,
-  author = {[Your Last Name], [Your First Name]},
-  title = {PINN-NLSE: Physics-Informed Neural Networks for the Non-Linear Schrödinger Equation},
-  url = {[https://github.com/](https://github.com/)[Krishnanjan_Sil]/[Your-Repo-Name]},
+  author = {Sil, Krishnanjan},
+  title = {PINN-NLSE-Solver: Physics-Informed Neural Networks for the Non-Linear Schrödinger Equation},
+  url = {[https://github.com/](https://github.com/)[Krishnanjan_Sil]/[https://github.com/Krishnanjan-Sil/PINN-NLSE-Solver]},
   version = {1.0.0},
   year = {2025}
 }
