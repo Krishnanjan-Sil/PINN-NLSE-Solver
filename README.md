@@ -71,7 +71,7 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 * **Network Service Disclosure**: If you run a modified version of this software as a network service (e.g., a web app), you **must** make your modified source code available to users.
 * **Same License**: Derivative works must be licensed under AGPL-3.0.
 
-For the full text, please see the [LICENSE](https://www.google.com/search?q=LICENSE) file.
+For the full text, please see the LICENSE file.
 
 ---
 
