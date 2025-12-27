@@ -90,4 +90,7 @@ If you use this code in your research or project, please cite it as follows:
   year = {2025}
 }
 ```
+### **Contact**
 
+For suggestions or collaboration, feel free to reach out to me:
+Krishnanjan Sil – 1krishnanjansil1@gmail.com
